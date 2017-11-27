@@ -1,0 +1,33 @@
+**** Getting bucket details :  nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc7j9ug4pgfj7lcukyoht8salipyb7skfc
+**** Getting all buckets ****
+**** Uploading to bucket:nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc7j9ug4pgfj7lcukyoht8salipyb7skfc File:./models/House.dwfx
+**** Get all buckets response:
+BUCKETS::::  extract-autodesk-io-20177j9ug4pgfj7lcukyoht8salipyb7skfc
+BUCKETS::::  model2017-11-24-06-00-57-d41d8cd98f00b204e9800998ecf8427e
+BUCKETS::::  model2017-11-24-06-01-25-d41d8cd98f00b204e9800998ecf8427e
+BUCKETS::::  model2017-11-24-06-01-57-d41d8cd98f00b204e9800998ecf8427e
+BUCKETS::::  model2017-11-24-06-02-10-d41d8cd98f00b204e9800998ecf8427e
+BUCKETS::::  nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc
+BUCKETS::::  nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc7j9ug4pgfj7lcukyoht8salipyb7skfc
+BUCKETS::::  testname7j9ug4pgfj7lcukyoht8salipyb7skfc
+uploadRes:  { statusCode: 200,
+  headers: 
+   { 'access-control-allow-credentials': 'true',
+     'access-control-allow-headers': 'Authorization, Accept-Encoding, Range, Content-Type',
+     'access-control-allow-methods': 'GET',
+     'access-control-allow-origin': '*',
+     'content-type': 'application/json; charset=utf-8',
+     date: 'Mon, 27 Nov 2017 12:18:52 GMT',
+     'content-length': '529',
+     connection: 'Close' },
+  body: 
+   { bucketKey: 'nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc7j9ug4pgfj7lcukyoht8salipyb7skfc',
+     objectId: 'urn:adsk.objects:os.object:nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc7j9ug4pgfj7lcukyoht8salipyb7skfc/House.dwfx',
+     objectKey: 'House.dwfx',
+     sha1: 'bb41a6bd5fa6518a3caad0d5db26ed3b67c51f0c',
+     size: 17401815,
+     contentType: 'application/octet-stream',
+     location: 'https://developer.api.autodesk.com/oss/v2/buckets/nikhil7j9ug4pgfj7lcukyoht8salipyb7skfc7j9ug4pgfj7lcukyoht8salipyb7skfc/objects/House.dwfx' } }
+**** Translating file derivative
+URN:  dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bmlraGlsN2o5dWc0cGdmajdsY3VreW9odDhzYWxpcHliN3NrZmM3ajl1ZzRwZ2ZqN2xjdWt5b2h0OHNhbGlweWI3c2tmYy9Ib3VzZS5kd2Z4
+{ statusCode: 403, statusMessage: 'Unauthorized' }
